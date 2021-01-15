@@ -1,7 +1,8 @@
 # Methods codes
 
 
-Here you can find the five methods for retrieving lake surface water temperature.
+Here you can find the five methods for retrieving lake surface water temperature. 
+It includes the satellite data (and preprocessing) and the satellite data processing (methods).
 
 Method 1: https://code.earthengine.google.com/ce9993659e86bc1bf25c98c28fd500e9
 
