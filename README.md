@@ -1,7 +1,7 @@
 # Methods codes
 
 
-Here you can find the five methods for retrieving lake surface water temperature. 
+Here you can find the five methods for retrieving lake surface water temperature (LSWT). 
 It includes:
 
 i) the satellite data and preprocessing: image collections, selecting specific images in a specific period of time and location,
