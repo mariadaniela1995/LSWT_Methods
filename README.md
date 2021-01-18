@@ -2,7 +2,12 @@
 
 
 Here you can find the five methods for retrieving lake surface water temperature. 
-It includes the satellite data (and preprocessing) and the satellite data processing (methods).
+It includes:
+
+i) the satellite data and preprocessing: collections used, selecting specific images in a specific period of time and location,
+selecting maximum cloud cover desired, BQA filter and extracting image collection date from the metadata. 
+
+ii) the satellite data processing (methods) to retrieve LSWT:
 
 Method 1: https://code.earthengine.google.com/ce9993659e86bc1bf25c98c28fd500e9
 
